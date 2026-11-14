@@ -1,0 +1,14 @@
+# Dataset (download separately, see README)
+neuma_dataset/
+
+# Generated outputs: kept out until the paper is submitted
+features.csv
+*.csv
+results_*.txt
+maps/
+train_test_data/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
