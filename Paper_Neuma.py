@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # Paper_Neuma.py
-# Aaron Tuck, Abigiya Yohannes, Ahmad Abubakr Siddiq, Akshita Ramesh
+# Code: Aaron Tuck
+# Paper: Aaron Tuck, Abigiya Yohannes, Ahmad Abubakr Siddiq, Akshita Ramesh
 # Perceptron experiments for the NeuMa purchase prediction paper.
 # Reads features.csv (made by features_neuma.py), trains a perceptron with
 # hard and soft unipolar activation to predict Buy (1) or NoBuy (0), and

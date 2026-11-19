@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # features_neuma.py
-# Row 1 of the sign-up sheet: load the NeuMa files and compute the
+# Loads the NeuMa files and computes the
 # per-product features from Section III-D, with the Buy/NoBuy labels.
 #   E   = beta / (alpha + theta), averaged over the frontal channels   (7)
 #   FAA = ln(alpha at F4) - ln(alpha at F3)                            (8)

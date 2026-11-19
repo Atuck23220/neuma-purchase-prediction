@@ -44,10 +44,10 @@ All code in this repository was written by Aaron Tuck.
 
 ## Requirements
 
-Python 3 with NumPy, SciPy, and Matplotlib.
+Python 3.13 with NumPy, SciPy, and Matplotlib. The versions used for the paper are pinned in `requirements.txt`. The random seed is fixed, so the same versions give the same numbers.
 
 ```
-pip install numpy scipy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Data
